@@ -1,5 +1,3 @@
-Sure! Here's an example README.md for your npm package "versionup-ts":
-
 # versionup-ts
 
 This package allows you to increment the `version` in the `package.json` file.
