@@ -1,0 +1,30 @@
+{
+    "name": "versionup-ts",
+    "version": "1.0.0",
+    "description": "Increment version of package.json",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Shukaaa/versionup-ts.git"
+    },
+    "files": [
+        "lib",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "version",
+        "package.json",
+        "increment",
+        "js",
+        "typescript",
+        "ts",
+        "javascript"
+    ],
+    "author": "shukaa",
+    "license": "MIT",
+    "bugs": "https://github.com/Shukaaa/versionup-ts/issues",
+    "homepage": "https://github.com/Shukaaa/versionup-ts#readme"
+}

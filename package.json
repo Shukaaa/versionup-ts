@@ -1,0 +1,15 @@
+{
+  "name": "versionup-ts",
+  "description": "Increment version number in package.json",
+  "scripts": {
+    "minify": "",
+    "compile": "node helper/buildHelper.js && tsc --removeComments && tsc --build tsconfig.es5.json && npm run minify",
+    "publish": "npm run compile && cd ./dist && npm publish"
+  },
+  "author": "shukaaa",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.3.0",
+    "typescript": "^5.1.3"
+  }
+}
