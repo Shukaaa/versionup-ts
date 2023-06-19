@@ -1,6 +1,6 @@
 {
-    "name": "versionup-ts",
-    "version": "1.0.0",
+    "name": "versionup-js",
+    "version": "1.0.1",
     "description": "Increment version of package.json",
     "main": "lib/es5/index.js",
     "module": "lib/es6/index.js",

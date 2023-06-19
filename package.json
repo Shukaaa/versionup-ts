@@ -1,5 +1,5 @@
 {
-  "name": "versionup-ts",
+  "name": "versionup-js",
   "description": "Increment version number in package.json",
   "scripts": {
     "minify": "",
